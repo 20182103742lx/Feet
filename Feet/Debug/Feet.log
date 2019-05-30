@@ -1,0 +1,5 @@
+﻿  Feet.cpp
+c:\users\hp301\desktop\lx\feet\feet\feet.cpp(58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\hp301\desktop\lx\feet\feet\feet.cpp(59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Feet.vcxproj -> C:\Users\HP301\Desktop\lx\Feet\Debug\Feet.exe
+  Feet.vcxproj -> C:\Users\HP301\Desktop\lx\Feet\Debug\Feet.pdb (Full PDB)
